@@ -1,0 +1,11 @@
+{
+  
+ "applicationid":"Your Application ID Here",
+ "name":"Spotify",
+ "details":"Subscribe",
+ "state":"to KENLIEPLAYS",
+ "imagename": "rich presence img nsme",
+  "spotify":"spotify1",
+  "token" : "Warning! Dont Put Token Here! kenlieplays Is Not Responsible if you want to put here!",
+"note": "Change Application Id, Dont Change Name, Change Details State and imagename, do not change Spotify"
+}
